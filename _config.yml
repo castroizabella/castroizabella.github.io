@@ -205,7 +205,7 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: posts
+#      type: posts
     values:
       layout: article
       mode: immersive
