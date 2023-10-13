@@ -2,6 +2,8 @@
 layout: article
 title: Welcome to my blog!
 mode: immersive
+header:
+  theme: dark
 article_header:
   type: overlay
   theme: dark
