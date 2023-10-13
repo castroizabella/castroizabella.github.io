@@ -208,10 +208,18 @@ defaults:
       type: posts
     values:
       layout: article
+      mode: immersive
       sharing: true
       license: true
       aside:
         toc: true
+      header:
+        theme: dark
+      article_header:
+        type: overlay
+        theme: dark
+        background_color: '#71bdb2'
+        background_image: false
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
