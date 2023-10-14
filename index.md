@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: landing
 title: Welcome to my blog!
 # mode: immersive
 # header:
