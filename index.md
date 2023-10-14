@@ -2,9 +2,11 @@
 layout: articles
 title: Welcome to my blog!
 articles:
-  data_dir: ./posts/
+  data_source: posts
+  show_cover: false
   show_excerpt: true
   show_readmore: true
+  show_info: true
 # mode: immersive
 # header:
 #   theme: dark
