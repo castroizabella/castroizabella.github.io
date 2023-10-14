@@ -1,4 +1,19 @@
 ---
+layout: article
+title: Get in touch
+show_author_profile: true
+<!-- sharing: false
+aside:
+  toc: false -->
+key: contact
+---
+
+# You can find me here:
+
+
+
+
+<!-- ---
 layout: base
 title: Izabella
 excerpt: Izabella Castro
@@ -23,19 +38,5 @@ excerpt: Izabella Castro
   </div>
 </div>
 <script>{%- include scripts/common.js -%}</script>
-{% include analytics.html %}
+{% include analytics.html %} -->
 
-<!-- ---
-layout: article
-title: Get in touch
-show_author_profile: true
-sharing: false
-aside:
-  toc: false
-key: contact
----
-
-# You can find me here:
-
-
- -->
