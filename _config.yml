@@ -221,7 +221,7 @@ defaults:
         background_color: '#71bdb2'
         background_image: false
       show_edit_on_github: false
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
 
 
