@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Welcome to my blog!
-
 articles:
-  data_source: _posts
+  data_dir: ./posts/
   show_excerpt: true
   show_readmore: true
 # mode: immersive
