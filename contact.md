@@ -4,7 +4,7 @@ title: Get in touch
 show_author_profile: true
 sharing: false
 pageview: false
-# aside:
+aside: false
 #   toc: false
 key: contact
 ---
