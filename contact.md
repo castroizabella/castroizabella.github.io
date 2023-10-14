@@ -3,7 +3,10 @@ layout: article
 title: Get in touch
 show_author_profile: true
 sharing: false
-toc: false
+aside:
+	toc: false
+footer:
+	theme: custom
 key: contact
 ---
 
