@@ -2,9 +2,10 @@
 layout: article
 title: Get in touch
 show_author_profile: true
-<!-- sharing: false
-aside:
-  toc: false -->
+sharing: false
+pageview: false
+# aside:
+#   toc: false
 key: contact
 ---
 
