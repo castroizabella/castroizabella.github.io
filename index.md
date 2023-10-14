@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: articles
 title: Welcome to my blog!
 articles:
   data_dir: ./posts/
