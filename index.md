@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Welcome to my blog!
+title: Izabella Castro | UX Designer
 articles:
   data_source: posts
   show_cover: false
@@ -19,4 +19,4 @@ articles:
   # src: /docs/assets/images/cover3.jpg
 ---
 
-Oláaa
+<!-- Oláp -->
