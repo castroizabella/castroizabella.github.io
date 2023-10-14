@@ -1,6 +1,11 @@
 ---
 layout: home
 title: Welcome to my blog!
+
+articles:
+  data_source: _posts
+  show_excerpt: true
+  show_readmore: true
 # mode: immersive
 # header:
 #   theme: dark
